@@ -13,9 +13,9 @@ Automating the user API using Postman and Newman enables efficient and reliable 
 
 ## How to run:
 
--```git clone ```
--```npm i```
--```npm test```
+- ```git clone ```
+- ```npm i```
+- ```npm test```
 
 ## Test Case:
 https://docs.google.com/spreadsheets/d/1gVTQr6RXu49DB7CRxchEJewpbNEvPSdS/edit?usp=sharing&ouid=106229380258445480911&rtpof=true&sd=true
