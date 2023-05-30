@@ -34,7 +34,7 @@ https://docs.google.com/spreadsheets/d/1xtrlc6p2BXLSKhxLFyJHbLT6Fru8rawn/edit?us
 
 ## Api Documentation
 
-https://documenter.getpostman.com/view/27409332/2s93m8xL7i
+https://documenter.getpostman.com/view/27409332/2s93mASeei
 
 ## Report Newman
 
