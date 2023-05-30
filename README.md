@@ -1,4 +1,4 @@
-# dmoney-postman & newman-Teating
+# dmoney-postman & newman-Testing
 
 ## Project Summary:
 Automating the user API using Postman and Newman enables efficient and reliable testing, saving time and effort while providing an interactive summary for easy identification of issues.
