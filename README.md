@@ -12,6 +12,6 @@ Automating the user API using Postman and Newman enables efficient and reliable 
 - Node Js
 
 ## How to run:
-- git clone
-- npm i
-- npm test
+''' git clone
+''' npm i
+''' npm test
