@@ -10,7 +10,6 @@ Automating the user API using Postman and Newman enables efficient and reliable 
 - Automation with Newman: The project utilizes Newman to automate the execution of the Postman collection, enabling batch testing and integration
 - Test Reports: Detailed test reports are generated after each execution, providing comprehensive insights into the test results, including pass/fail statuses and response times.
 
-
 ## Technology used:
 
 - Postman
